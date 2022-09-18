@@ -1,0 +1,105 @@
+{
+  "weather": [
+			{
+				"dt": 1489471200,
+				"temp": {
+					"day": 307.18,
+					"min": 289.06,
+					"max": 307.18,
+					"night": 289.06,
+					"eve": 301.15,
+					"morn": 295.15
+				},
+				"pressure": 1027.63,
+				"humidity": 50,
+				"weather": [
+					{
+						"id": 800,
+						"main": "Clear",
+						"description": "sky is clear",
+						"icon": "01d"
+					}
+				],
+				"speed": 2.05,
+				"deg": 356,
+				"clouds": 0,
+				"uvi": 9.72
+			},
+			{
+				"dt": 1489557600,
+				"temp": {
+					"day": 301.54,
+					"min": 285.83,
+					"max": 302.92,
+					"night": 288.11,
+					"eve": 299.1,
+					"morn": 285.83
+				},
+				"pressure": 1027.47,
+				"humidity": 43,
+				"weather": [
+					{
+						"id": 802,
+						"main": "Clouds",
+						"description": "scattered clouds",
+						"icon": "03d"
+					}
+				],
+				"speed": 2.59,
+				"deg": 346,
+				"clouds": 36,
+				"uvi": 9.63
+			},
+			{
+				"dt": 1489644000,
+				"temp": {
+					"day": 302.13,
+					"min": 285.32,
+					"max": 303.34,
+					"night": 289.76,
+					"eve": 299.82,
+					"morn": 285.32
+				},
+				"pressure": 1024.87,
+				"humidity": 41,
+				"weather": [
+					{
+						"id": 800,
+						"main": "Clear",
+						"description": "sky is clear",
+						"icon": "01d"
+					}
+				],
+				"speed": 2.48,
+				"deg": 319,
+				"clouds": 0,
+				"uvi": 9.85
+			},
+			{
+				"dt": 1489730400,
+				"temp": {
+					"day": 304.38,
+					"min": 286.63,
+					"max": 304.38,
+					"night": 294.11,
+					"eve": 302.85,
+					"morn": 286.63
+				},
+				"pressure": 1021.46,
+				"humidity": 0,
+				"weather": [
+					{
+						"id": 500,
+						"main": "Rain",
+						"description": "light rain",
+						"icon": "10d"
+					}
+				],
+				"speed": 2.04,
+				"deg": 299,
+				"clouds": 0,
+				"rain": 0.66,
+				"uvi": 9.46
+			},
+    ]
+}
