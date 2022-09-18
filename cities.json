@@ -1,0 +1,93 @@
+{"weather": [
+	{
+		"id": 1163626,
+		"name": "Thang",
+		"state": "",
+		"country": "IN",
+		"coord": {
+			"lon": 76.75,
+			"lat": 34.916672
+		}
+	},
+	{
+		"id": 1167718,
+		"name": "Pūnch",
+		"state": "",
+		"country": "IN",
+		"coord": {
+			"lon": 74.089737,
+			"lat": 33.767879
+		}
+	},
+	{
+		"id": 1252646,
+		"name": "Keelakarai",
+		"state": "",
+		"country": "IN",
+		"coord": {
+			"lon": 78.783333,
+			"lat": 9.23333
+		}
+	},
+	{
+		"id": 1252653,
+		"name": "Zunheboto",
+		"state": "",
+		"country": "IN",
+		"coord": {
+			"lon": 94.51667,
+			"lat": 25.966669
+		}
+	},
+	{
+		"id": 1252668,
+		"name": "Ziro",
+		"state": "",
+		"country": "IN",
+		"coord": {
+			"lon": 93.833328,
+			"lat": 27.633329
+		}
+	},
+	{
+		"id": 1252692,
+		"name": "Zamānia",
+		"state": "",
+		"country": "IN",
+		"coord": {
+			"lon": 83.566673,
+			"lat": 25.433331
+		}
+	},
+	{
+		"id": 1252698,
+		"name": "Zaidpur",
+		"state": "",
+		"country": "IN",
+		"coord": {
+			"lon": 81.333336,
+			"lat": 26.833332
+		}
+	},
+	{
+		"id": 1252699,
+		"name": "Zahirābād",
+		"state": "",
+		"country": "IN",
+		"coord": {
+			"lon": 77.616669,
+			"lat": 17.683331
+		}
+	},
+	{
+		"id": 1252702,
+		"name": "Zafarābād",
+		"state": "",
+		"country": "IN",
+		"coord": {
+			"lon": 82.73333,
+			"lat": 25.700001
+		}
+	}
+]
+}
